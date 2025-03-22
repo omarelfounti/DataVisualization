@@ -17,8 +17,6 @@ This project analyzes the relationship between weather conditions and electricit
 
 
 - `app.py` : Streamlit application for interactive analysis.
-- `data/` : Folder containing cleaned datasets.
-- `notebooks/` : Jupyter notebooks for exploratory data analysis and modeling.
 - `README.md` : Documentation file.
 
 
